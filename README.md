@@ -90,8 +90,8 @@ Request:
 
 ```json
 {
-  "name": "John Doe",
-  "email": "john@example.com"
+  "name": "Moh Noori",
+  "email": "moh@scriptchain.co"
 }
 ```
 
